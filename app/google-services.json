@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208336401204",
+    "project_id": "fcm-call-b11ef",
+    "storage_bucket": "fcm-call-b11ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208336401204:android:a8dd697215f205204aab61",
+        "android_client_info": {
+          "package_name": "com.example.fcm_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5rthp0yFcSSO8J_ifYIj_9WOgU_9rlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
